@@ -1,0 +1,25 @@
+{
+	"name" : "blue2factor/php-b2f",
+	"description" : "Blue2Factor for php web servers",
+	"license" : "MIT",
+	"autoload" : {
+		"psr-4" : {
+			"Blue2factor\\PhpB2f\\" : "src"
+		}
+	},
+	"authors" : [{
+			"name" : "Christopher McLain",
+			"email" : "chris@blue2factor.com"
+		}
+	],
+	"require" : {
+		"firebase/php-jwt" : "^6.1"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "~9.5"
+	},
+	"homepage" : "https://www.blue2factor.com",
+	"support" : {
+		"email" : "info@blue2factor.com"
+	}
+}
