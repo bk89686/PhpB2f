@@ -20,6 +20,8 @@
 	},
 	"homepage" : "https://www.blue2factor.com",
 	"support" : {
-		"email" : "info@blue2factor.com"
+		"email" : "info@blue2factor.com",
+		"issues" : "https://github.com/bk89686/PhpB2f/issues",
+		"source" : "https://github.com/bk89686/PhpB2f"
 	}
 }
